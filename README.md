@@ -1,5 +1,7 @@
 ## Foundry
-
+```
+$ forge install openzeppelin/openzeppelin-contracts
+```
 ## HOW TO RUN TEST CASES ->
 
 ### Build
